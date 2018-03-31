@@ -1,0 +1,6 @@
+name: mruby-aws-route53
+description: AWS Route53 client library for mruby.
+author: Okumura Takahiro
+website: https://github.com/hfm/mruby-aws-route53
+protocol: git
+repository: https://github.com/hfm/mruby-aws-route53.git
